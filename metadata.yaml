@@ -1,0 +1,32 @@
+_repo: The-Age-of-Pope-1700-1744-_30421
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dennis, John
+    birthdate: 1825
+    deathdate: 1911
+    gutenberg_agent_id: '34601'
+    url: http://www.gutenberg.org/2009/agents/34601
+description: Master of the heroic couplet, Alexander Pope is widely considered the
+  greatest English verse satirist. This insightful volume examines Pope's life and
+  work alongside the work of his contemporaries Matthew Prior, William Somerville,
+  Daniel Defoe, Joseph Addison, and many other poets and prose writers.
+gutenberg_issued: '2009-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30421'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- 18th century -- History and criticism'
+- !lcc 'PR'
+- !lcsh 'Pope, Alexander, 1688-1744'
+title: 'The Age of Pope
+
+  (1700-1744)'
+url: http://www.gutenberg.org/ebooks/30421
